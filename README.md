@@ -13,6 +13,6 @@
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 📫 How to reach me:
-- LinkedIn: [@yourlinkedin](https://www.linkedin.com/in/esrom05/)
+- LinkedIn: [@Esrom05](https://www.linkedin.com/in/esrom05/)
 
 🎯 I'm always open to collaborating on projects or learning new skills, so feel free to reach out!
