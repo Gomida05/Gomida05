@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gomida05
-- 👀 I’m interested in programming and football.
+- 👀 I’m interested in programming and AI.
 - 🌱 I have learned HTML, CSS, JavaScript, C#, Kotlin (for Android Development), and Python.
 - 🚀 I’m currently learning AI and ML.
 - ⌛ I will upload my projects soon!
