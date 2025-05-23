@@ -2,7 +2,7 @@
     "apps": {
         "YouTube Downloader": {
             "latestVersionCode": 3,
-            "latestVersionName": "1.16",
+            "latestVersionName": "1.17",
             "apkUrl": "https://github.com/Gomida05/Gomida05.github.io/raw/refs/heads/main/YouTube-Downloader/YouTube_Downloader.apk",
             "changelog": "• Bug fixes"
         }
