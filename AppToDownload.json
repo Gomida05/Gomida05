@@ -2,9 +2,9 @@
     "apps": {
         "YouTube Downloader": {
             "latestVersionCode": 3,
-            "latestVersionName": "1.19",
+            "latestVersionName": "1.20",
             "apkUrl": "https://github.com/Gomida05/Gomida05.github.io/raw/refs/heads/main/YouTube-Downloader/YouTube_Downloader.apk",
-            "changelog": "• Login page beta 4 \n• Bug fixes"
+            "changelog": "• Big change to the video player\n• Bug fixes"
         }
     }
 }
