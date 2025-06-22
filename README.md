@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gomida05
-- 👀 I’m interested in programming and AI.
+- 👀 I’m love coding and building lot of projects..
 - 🌱 I have learned HTML, CSS, JavaScript, C#, Kotlin (for Android Development), and Python.
-- 🚀 I’m currently learning AI and ML.
 
 <a href="https://github.com/Gomida05/Gomida05.github.io/raw/refs/heads/main/YouTube-Downloader/YouTube_Downloader.apk">Download YouTube video and music Downloader for android</a>
 
