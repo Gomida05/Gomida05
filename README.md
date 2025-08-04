@@ -2,7 +2,6 @@
 - 👀 I’m love coding and building lot of projects..
 - 🌱 I have learned HTML, CSS, JavaScript, C#, Kotlin (for Android Development), and Python.
 
-<a href="https://github.com/Gomida05/Gomida05.github.io/raw/refs/heads/main/YouTube-Downloader/YouTube_Downloader.apk">Download YouTube video and music Downloader for android</a>
 
 ### 💻 Programming Languages I am proficient in:
 - [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
