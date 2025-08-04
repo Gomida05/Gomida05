@@ -2,7 +2,13 @@
     "apps": {
         "YouTube Downloader": {
             "latestVersionCode": 3,
-            "latestVersionName": "1.21",
+            "latestVersionName": "1.24",
+            "apkUrl": "https://github.com/Gomida05/Gomida05.github.io/raw/refs/heads/main/YouTube-Downloader/YouTube_Downloader.apk",
+            "changelog": "• New feedback feature\n• Bug fixes"
+        },
+        "DasMediaHub": {
+            "latestVersionCode": 3,
+            "latestVersionName": "1.24",
             "apkUrl": "https://github.com/Gomida05/Gomida05.github.io/raw/refs/heads/main/YouTube-Downloader/YouTube_Downloader.apk",
             "changelog": "• New feedback feature\n• Bug fixes"
         }
