@@ -1,16 +1,16 @@
 {
     "apps": {
         "YouTube Downloader": {
-            "latestVersionCode": 5,
-            "latestVersionName": "1.25",
+            "latestVersionCode": 6,
+            "latestVersionName": "1.26",
             "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/app/newRelease.apk",
-            "changelog": "• Masive Update\n• Fix user account\n• Added PIP feature for the video player\n• Bug fixes\n• And more new features"
+            "changelog": "• New look and big changes with new features.\n• Fix PIP (Picture-in-Picture) buttons.\n• Bug fixes\n• More stable features now.\n• Thanks for using our app and supporing us."
         },
         "DasMediaHub": {
-            "latestVersionCode": 5,
-            "latestVersionName": "1.25",
+            "latestVersionCode": 6,
+            "latestVersionName": "1.26",
             "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/app/newRelease.apk",
-            "changelog": "• Fix user account\n• Added PIP feature for the video player\n• Bug fixes\n• And more new features"
+            "changelog": "• Fix PIP (Picture-in-Picture) buttons.\n• Bug fixes\n• More stable features now.\n• Thanks for using our app and supporing us."
         }
     }
 }
