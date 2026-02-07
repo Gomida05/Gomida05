@@ -1,16 +1,16 @@
 {
     "apps": {
         "YouTube Downloader": {
-            "latestVersionCode": 8,
-            "latestVersionName": "1.28",
+            "latestVersionCode": 9,
+            "latestVersionName": "1.29",
             "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/app/newRelease.apk",
             "changelog": "• Major update since the deprecated v1.20 release.\n• Complete UI redesign with a more modern and clean look.\n• Added new features and improved existing ones.\n• Fixed Picture-in-Picture (PiP) button issues.\n• Improved compatibility with newer Android versions.\n• Multiple bug fixes and performance improvements.\n• Overall stability and user experience improvements."
         },
         "DasMediaHub": {
-            "latestVersionCode": 8,
-            "latestVersionName": "1.28",
+            "latestVersionCode": 9,
+            "latestVersionName": "1.29",
             "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/app/newRelease.apk",
-            "changelog": "• Minor UI refinements and visual improvements.\n• Fixed Picture-in-Picture (PiP) button issues.\n• Bug fixes and performance optimizations.\n• Improved stability on newer Android versions.\n• General improvements and polishing."
+            "changelog": "• Minor UI refinements and visual improvements.\n• Fix bug of the search engine.\n• Improved stability on newer Android versions.\n• New features."
         }
     }
 }
