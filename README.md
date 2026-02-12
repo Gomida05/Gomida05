@@ -13,7 +13,7 @@
 
 ## 👋 Quick Intro
 
-**Android Developer & AI Student** based in **Birmingham, UK 🇬🇧**  
+**Android Developer** based in **UK**
 I build **production-ready Android apps**, clean **MVVM architectures**, and integrate **AI & Python systems** into mobile products.
 
 **TL;DR**
@@ -70,7 +70,7 @@ Real-time UK train tracking app
 - Firebase Analytics & Performance  
 
 <p>
-  <a href="https://play.google.com/store/apps">
+  <a href="https://play.google.com/store/apps/details?id=com.das.transitMate">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70"/>
   </a>
 </p>
