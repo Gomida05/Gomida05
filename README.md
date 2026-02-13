@@ -87,7 +87,7 @@ Real-time UK train tracking app
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Gomida05&show_icons=true&theme=tokyonight"
@@ -99,7 +99,7 @@ Real-time UK train tracking app
     />
     <img src="https://github-readme-stats.vercel.app/api?username=Gomida05&show_icons=true" height="160"/>
   </picture>
-</p>
+</p> -->
 
 <p align="center">
   <picture>
@@ -133,13 +133,14 @@ Real-time UK train tracking app
   </picture>
 </p>
 
+
 ---
 
 ## 🌍 Connect
 
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/esrom05/)
-- 📧 Email: habteabesrom@gmail.com  
-- 🧑‍💻 GitHub: https://github.com/Gomida05  
+- 📧 Email: [Email](das.gomida05@gmail.com)  
+- 🧑‍💻 GitHub: [Web Site](https://github.com/Gomida05)
 
 ---
 
