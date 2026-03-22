@@ -37,9 +37,6 @@ I build **production-ready Android apps**, clean **MVVM architectures**, and int
 - API-heavy & AI-enabled features
 - Clean, maintainable codebases
 
-📩 **Email:** habteabesrom@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/esrom05/
-
 ---
 
 ## 🧰 Tech Stack (Snapshot)
@@ -139,7 +136,7 @@ Real-time UK train tracking app
 ## 🌍 Connect
 
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/esrom05/)
-- 📧 Email: [Email](das.gomida05@gmail.com)  
+- 📧 Email: [Email](mailto:das.gomida05@gmail.com)  
 - 🧑‍💻 GitHub: [Web Site](https://github.com/Gomida05)
 
 ---
