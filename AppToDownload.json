@@ -1,16 +1,16 @@
 {
     "apps": {
         "YouTube Downloader": {
-            "latestVersionCode": 9,
-            "latestVersionName": "1.29",
-            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/app/newRelease.apk",
-            "changelog": "• Major update since the deprecated v1.20 release.\n• Complete UI redesign with a more modern and clean look.\n• Added new features and improved existing ones.\n• Fixed Picture-in-Picture (PiP) button issues.\n• Improved compatibility with newer Android versions.\n• Multiple bug fixes and performance improvements.\n• Overall stability and user experience improvements."
+            "latestVersionCode": 10,
+            "latestVersionName": "10.0",
+            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v10.apk",
+            "changelog": "• Updated to latest Jetpack Compose for smoother UI and better performance.\n• Switched to Media3 for improved playback stability.\n• New navigation system for faster screen transitions.\n• Optimized image loading and reduced memory usage.\n• Improved download reliability for high quality videos.\n• Fixed navigation lag and random freezes.\n• General bug fixes and performance improvements."
         },
         "DasMediaHub": {
-            "latestVersionCode": 9,
-            "latestVersionName": "1.29",
-            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/app/newRelease.apk",
-            "changelog": "• Minor UI refinements and visual improvements.\n• Fix bug of the search engine.\n• Improved stability on newer Android versions.\n• New features."
+            "latestVersionCode": 10,
+            "latestVersionName": "10.0",
+            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v10.apk",
+            "changelog": "• Faster navigation and smoother UI.\n• Improved video player performance and stability.\n• Better image loading and scrolling.\n• Fixed issues with playback and navigation.\n• General bug fixes and improvements."
         }
     }
 }
