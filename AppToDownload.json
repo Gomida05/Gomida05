@@ -2,7 +2,7 @@
     "apps": {
         "YouTube Downloader": {
             "latestVersionCode": 10,
-            "latestVersionName": "10.0",
+            "latestVersionName": "10.2",
             "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v10.apk",
             "changelog": "• Updated to latest Jetpack Compose for smoother UI and better performance.\n• Switched to Media3 for improved playback stability.\n• New navigation system for faster screen transitions.\n• Optimized image loading and reduced memory usage.\n• Improved download reliability for high quality videos.\n• Fixed navigation lag and random freezes.\n• General bug fixes and performance improvements."
         },
