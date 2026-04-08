@@ -8,7 +8,7 @@
         },
         "DasMediaHub": {
             "latestVersionCode": 10,
-            "latestVersionName": "10.0",
+            "latestVersionName": "10.2",
             "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v10.apk",
             "changelog": "• Faster navigation and smoother UI.\n• Improved video player performance and stability.\n• Better image loading and scrolling.\n• Fixed issues with playback and navigation.\n• General bug fixes and improvements."
         }
