@@ -3,13 +3,13 @@
         "YouTube Downloader": {
             "latestVersionCode": 13,
             "latestVersionName": "13.0",
-            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v12.apk",
+            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v13.apk",
             "changelog": "• Updated to latest Jetpack Compose for smoother UI and better performance.\n• Switched to Media3 for improved playback stability.\n• New navigation system for faster screen transitions.\n• Optimized image loading and reduced memory usage.\n• Improved download reliability for high quality videos.\n• Fixed navigation lag and random freezes.\n• General bug fixes and performance improvements."
         },
         "DasMediaHub": {
             "latestVersionCode": 13,
             "latestVersionName": "13.0",
-            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v12.apk",
+            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v13.apk",
             "changelog": "• Faster navigation and smoother UI.\n• Improved video player performance and stability. \n• Fixed issues with playback and search engine (Type Error).\n• General bug fixes and improvements."
         }
     }
