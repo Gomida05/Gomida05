@@ -1,16 +1,16 @@
 {
     "apps": {
         "YouTube Downloader": {
-            "latestVersionCode": 13,
-            "latestVersionName": "13.0",
-            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v13.apk",
-            "changelog": "• Updated to latest Jetpack Compose for smoother UI and better performance.\n• Switched to Media3 for improved playback stability.\n• New navigation system for faster screen transitions.\n• Optimized image loading and reduced memory usage.\n• Improved download reliability for high quality videos.\n• Fixed navigation lag and random freezes.\n• General bug fixes and performance improvements."
+            "latestVersionCode": 14,
+            "latestVersionName": "14.0",
+            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v14.apk",
+            "changelog": "• Introduced global ExoPlayer for seamless playback across videos.\n• Fixed fullscreen rotation causing black/blank video screen.\n• Improved video player stability and reduced UI flicker.\n• Optimized navigation between suggested videos (no reload).\n• Fixed PIP mode incorrectly triggering on exit.\n• Better state handling across screens.\n• General bug fixes and performance improvements."
         },
         "DasMediaHub": {
-            "latestVersionCode": 13,
-            "latestVersionName": "13.0",
-            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v13.apk",
-            "changelog": "• Faster navigation and smoother UI.\n• Improved video player performance and stability. \n• Fixed issues with playback and search engine (Type Error).\n• General bug fixes and improvements."
+            "latestVersionCode": 14,
+            "latestVersionName": "14.0",
+            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v14.apk",
+            "changelog": "• Added global ExoPlayer for smoother video switching.\n• Fixed blank screen issue during fullscreen rotation.\n• Improved suggestions navigation without recreating player.\n• Fixed PIP mode ignoring state on exit.\n• Improved search result persistence when returning from player.\n• Enhanced UI states (error, empty, loading).\n• General bug fixes and performance improvements."
         }
     }
 }
