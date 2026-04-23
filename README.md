@@ -110,9 +110,9 @@ I’m a **Native Android Developer** focused on building high-performance, fluid
 
 ## 🌍 Connect
 
+- 🧑‍💻 Portfolio: [Web Site](https://gomida05.com)
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/esrom05/)
 - 📧 Email: [Email](mailto:das.gomida05@gmail.com)  
-- 🧑‍💻 GitHub: [Web Site](https://github.com/Gomida05)
 
 ---
 
