@@ -11,34 +11,34 @@
 
 ---
 
-## 🚀 The Mission
-I’m a **Native Android Developer** focused on building high-performance, fluid mobile experiences. I specialize in the modern Android stack (Kotlin & Compose) and have a unique niche in bridging native apps with complex Python-based logic. I build with a "production-first" mindset-focusing on clean architecture, efficient caching, and seamless UX.
+## The Mission
+I’m a **Native Android Developer** focused on building high-performance, fluid mobile experiences. I specialize in the modern Android stack (Kotlin & Compose) and have a unique niche in bridging native apps with complex Python-based logic. I build with a production-first mindset, focusing on clean architecture, efficient caching, and seamless UX.
 
-- 📱 **Native Focused:** Expert in Kotlin, Jetpack Compose, and StateFlow.
-- 🧠 **AI & Hybrid Logic:** Integrating Python engines via Chaquopy for advanced data tasks.
-- ⚡ **Performance Minded:** Obsessed with smart caching and reducing API overhead.
-- 🌍 **Shipped:** Multiple applications live on the Google Play Store.
+- **Native Focused:** Expert in Kotlin, Jetpack Compose, and StateFlow.
+- **AI & Hybrid Logic:** Integrating Python engines via Chaquopy for advanced data tasks.
+- **Performance Minded:** Focused on smart caching and reducing API overhead.
+- **Shipped:** Multiple applications live on the Google Play Store.
 
 ---
 
-## 🛠️ My Toolbox
+## My Toolbox
 
-### **Android Core**
+### Android Core
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) 
 ![MVVM](https://img.shields.io/badge/Architecture-MVVM-orange?style=for-the-badge) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### **Data & Systems**
+### Data & Systems
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Room](https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![Chaquopy](https://img.shields.io/badge/Chaquopy-Integration-blueviolet?style=for-the-badge)
 
 ---
-## 📱 Featured Projects
+## Featured Projects
 
-### 🚆 [Transit Mate](https://play.google.com/store/apps/details?id=com.das.transitMate) - *Real-time UK Rail Tracker*
+### [Transit Mate](https://play.google.com/store/apps/details?id=com.das.transitMate) - *Real-time UK Rail Tracker*
 
 <table>
   <tr>
@@ -66,7 +66,7 @@ I’m a **Native Android Developer** focused on building high-performance, fluid
 
 ---
 
-### 🎬 [DasMediaHub](https://github.com/Gomida05/DasMediaHub) - *Al-in-One Media Suite*
+### [DasMediaHub](https://github.com/Gomida05/DasMediaHub) - *All-in-One Media Suite*
 
 <table>
   <tr>
@@ -94,25 +94,25 @@ I’m a **Native Android Developer** focused on building high-performance, fluid
 
 ---
 
-## 📈 Impact & Activity
+## Impact & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gomida05&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomida05&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-### 🐍 The Grind
+### The Grind
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gomida05/Gomida05/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
 
-## 🌍 Connect
+## Connect
 
-- 🧑‍💻 Portfolio: [Web Site](https://gomida05.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/esrom05/)
-- 📧 Email: [Email](mailto:das.gomida05@gmail.com)  
+- Portfolio: [Web Site](https://gomida05.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/esrom05/)
+- Email: [Email](mailto:das.gomida05@gmail.com)  
 
 ---
 
