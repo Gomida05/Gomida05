@@ -94,13 +94,6 @@ I’m a **Native Android Developer** focused on building high-performance, fluid
 
 ---
 
-## Impact & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gomida05&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomida05&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
 ### The Grind
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gomida05/Gomida05/output/github-contribution-grid-snake-dark.svg" width="100%" />
