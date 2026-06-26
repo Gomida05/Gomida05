@@ -1,16 +1,16 @@
 {
-    "apps": {
-        "YouTube Downloader": {
-            "latestVersionCode": 15,
-            "latestVersionName": "15.0",
-            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v15.apk",
-            "changelog": "• Complete rebranding and evolution from a simple downloader to the comprehensive DasMediaHub platform.\n• Full transition to a modern Jetpack Compose UI for a more fluid and responsive user experience.\n• Implemented a multi-module architecture for enhanced performance and long-term stability.\n• Added multi-platform support including extraction for TikTok and Instagram content.\n• Integrated an embedded Python runtime for high-accuracy metadata scraping.\n• Developed a custom resumable download engine with HTTP Range support for unreliable networks.\n• Added local database persistence for Watch History and Favorites management.\n• Introduced Picture-in-Picture (PiP) support for multitasking.\n• Enhanced storage management allowing users to define custom paths for Music and Video libraries.\n• Centralized error mapping to provide clear, actionable feedback for network and processing errors."
-        },
-        "DasMediaHub": {
-            "latestVersionCode": 15,
-            "latestVersionName": "15.0",
-            "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v15.apk",
-            "changelog": "• Major refactoring of the video player architecture to improve lifecycle management and stability.\n• Optimized video transition logic to eliminate visual flicker and ghosting when switching playback items.\n• Consolidated player states into a unified reactive model for better synchronization between UI and engine.\n• Improved metadata caching to provide instant UI feedback during background data fetching.\n• Enhanced background media notification controls with support for favoriting videos directly from the lock screen.\n• Fixed orientation handling issues to ensure seamless transitions between portrait and landscape fullscreen modes.\n• Optimized dependency injection for more reliable service and repository management.\n• Implemented comprehensive internal documentation and code standards across all modules.\n• General performance optimizations and bug fixes for the final production release."
-        }
+  "apps": {
+    "YouTube Downloader": {
+      "latestVersionCode": 15,
+      "latestVersionName": "15.0",
+      "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v15.apk",
+      "changelog": "• Complete rebranding and evolution from a simple downloader to the comprehensive DasMediaHub platform.\n• Full transition to a modern Jetpack Compose UI for a more fluid and responsive user experience.\n• Implemented a multi-module architecture for enhanced performance and long-term stability.\n• Added multi-platform support including extraction for TikTok and Instagram content.\n• Integrated an embedded Python runtime for high-accuracy metadata scraping.\n• Developed a custom resumable download engine with HTTP Range support for unreliable networks.\n• Added local database persistence for Watch History and Favorites management.\n• Introduced Picture-in-Picture (PiP) support for multitasking.\n• Enhanced storage management allowing users to define custom paths for Music and Video libraries.\n• Centralized error mapping to provide clear, actionable feedback for network and processing errors."
+    },
+    "DasMediaHub": {
+      "latestVersionCode": 15,
+      "latestVersionName": "15.0",
+      "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v15.apk",
+      "changelog": "• Major refactoring of the video player architecture to improve lifecycle management and stability.\n• Optimized video transition logic to eliminate visual flicker and ghosting when switching playback items.\n• Consolidated player states into a unified reactive model for better synchronization between UI and engine.\n• Improved metadata caching to provide instant UI feedback during background data fetching.\n• Enhanced background media notification controls with support for favoriting videos directly from the lock screen.\n• Fixed orientation handling issues to ensure seamless transitions between portrait and landscape fullscreen modes.\n• Optimized dependency injection for more reliable service and repository management.\n• Implemented comprehensive internal documentation and code standards across all modules.\n• General performance optimizations and bug fixes for the final production release."
     }
+  }
 }
