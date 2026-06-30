@@ -1,10 +1,10 @@
 {
   "apps": {
     "DasMediaHub": {
-      "latestVersionCode": 16,
-      "latestVersionName": "16.0",
-      "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v16.apk",
-      "changelog": "• Fresh New Look: Completely redesigned the app with a cleaner, more modern interface, featuring polished layouts and smoother animations for a premium feel.\n• Stable & Reliable: We've officially moved out of the testing phase! We've refined every feature to ensure a solid, stable, and finalized experience for everyone.\n• Better Download Tracking: Easily track your progress with new real-time speed indicators and detailed file size info (e.g., 10MB of 50MB saved).\n• Faster & Lighter: Under-the-hood improvements make the app much snappier, more responsive, and better for your battery life.\n• Improved Content Loading: Fixed issues with finding videos and music to ensure your searches and links always work reliably.\n• Clearer Support: Redesigned the Help, About, and Privacy sections to make finding answers to your questions much easier and faster.\n• Smoother Multitasking: Improved 'Picture-in-Picture' and background play, so your media keeps playing perfectly while you use other apps.\n• Bug Fixes: Squashed several bugs to make downloading and organizing your media more reliable than ever."
+      "latestVersionCode": 17,
+      "latestVersionName": "16.1",
+      "apkUrl": "https://github.com/Gomida05/DasMediaHub/raw/refs/heads/main/releases/DasMediaHub-v16.1.apk",
+      "changelog": "• Fixed crashes and ensuring reliable media playback on the latest Android devices.\n• Library Enhancements: Added real-time playback indicators and animated audio visualizers to your downloaded media list.\n• Fix for YouTube Search: Squashed a crash that occurred when certain YouTube search results couldn't be parsed correctly.\n• Detailed Media Info: New 'Media Details' dialog featuring high-resolution thumbnails, precise file locations, and last modified timestamps.\n• Singleton Player Architecture: Faster transitions between streaming and background play with our new unified player management.\n• Snappier UI: Refactored image loading to be fully asynchronous, preventing stutters while browsing your library.\n• Bug Fixes: General reliability improvements to the download engine and metadata extraction."
     }
   }
 }
