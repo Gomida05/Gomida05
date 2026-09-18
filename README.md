@@ -38,7 +38,7 @@ I’m a **Native Android Developer** focused on building high-performance, fluid
 ---
 ## Featured Projects
 
-### [Transit Mate](https://play.google.com/store/apps/details?id=com.das.transitMate) - *Real-time UK Rail Tracker*
+### [Transit Mate](https://transitmate.gomida05.com) - *Real-time UK Rail Tracker*
 
 <table>
   <tr>
